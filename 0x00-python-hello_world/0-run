@@ -1,3 +1,2 @@
 #!/usr/bin/python
-PYFILE=$ ( cat main.py
-        print("Best programming language")
+python language $PYFILE
