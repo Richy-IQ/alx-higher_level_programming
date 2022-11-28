@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-print("richy is coding in python")
+export PYFILE = print("richy is coding in python")
