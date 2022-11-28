@@ -1,2 +1,3 @@
 #!/usr/bin/python
-print("richy is coding in python\n")
+PYFILE=$ ( cat main.py
+        print("Best programming language")
